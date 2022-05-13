@@ -1,2 +1,2 @@
 # Kubernetes
-This is a repository of Kubertetes files
+This is a repository of Kubernetes files
